@@ -21,7 +21,7 @@ EditText txLeitura;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Toast.Makefsdhafsjklhfkjsa  Teste edição de arquivo pela página do GitHub
-        //Teste alterações para versao02
+        //Teste alterações para versão 02
         retiraFoto();
         lerCodigos();
     }
