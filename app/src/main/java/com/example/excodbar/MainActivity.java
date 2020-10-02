@@ -20,10 +20,11 @@ EditText txLeitura;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Toast.Makefsdhafsjklhfkjsa  //Teste edição de arquivo pela página do GitHub
         retiraFoto();
         lerCodigos();
     }
-
+    
     private void lerCodigos(){
         btLeitura=(Button)findViewById(R.id.btnLeitura);
         txLeitura=(EditText)findViewById(R.id.edtLeitura);
