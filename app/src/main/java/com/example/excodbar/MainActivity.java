@@ -20,7 +20,8 @@ EditText txLeitura;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       //Toast.Makefsdhafsjklhfkjsa  Teste edição de arquivo pela página do GitHub
+        //Toast.Makefsdhafsjklhfkjsa  Teste edição de arquivo pela página do GitHub
+        //Teste alterações para versao02
         retiraFoto();
         lerCodigos();
     }
